@@ -9,6 +9,7 @@ set(SERVICE_FILES SpawnObject.srv DestroyObject.srv GetBlueprints.srv)
 
 set(MSG_FILES
     CarlaBoundingBox.msg
+    CarlaEgoTrafficLightInfo.msg
     CarlaEgoVehicleControl.msg
     CarlaEgoVehicleStatus.msg
     CarlaEgoVehicleInfoWheel.msg
