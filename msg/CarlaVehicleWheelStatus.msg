@@ -3,4 +3,6 @@
 float32 steer_angle
 float32 pitch_angle
 float32 height
-geometry_msgs/Vector3 velocity
+float32 speed
+float32 lat_slip
+float32 long_slip
