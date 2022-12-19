@@ -25,6 +25,7 @@ set(MSG_FILES
     CarlaTrafficLightInfoList.msg
     CarlaTrafficLightStatus.msg
     CarlaTrafficLightStatusList.msg
+    CarlaVehicleWheelStatus.msg
     CarlaWalkerControl.msg
     CarlaWeatherParameters.msg)
 
