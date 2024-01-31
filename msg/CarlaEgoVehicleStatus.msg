@@ -8,6 +8,7 @@
 std_msgs/Header header
 
 float32 velocity
+float32 engine_rotation_speed # degrees per second
 geometry_msgs/Accel acceleration
 geometry_msgs/Quaternion orientation
 
